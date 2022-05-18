@@ -1,2 +1,3 @@
 # recsys
-Playing with recommendation systems
+
+Mock examples to explore recommendation packages and systems
